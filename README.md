@@ -1,0 +1,2 @@
+# GlobalAIHubPythonCourse
+GlobalAIHubPythonCourse HomeWorks
